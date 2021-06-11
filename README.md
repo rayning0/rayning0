@@ -1,4 +1,8 @@
-### Hi there 👋
+### I work on streaming video at [Tubi](http://tubi.tv) in LA, part of [Fox Entertainment](https://www.fox.com/entertainment/), focused on our [live TV news channels](https://corporate.tubitv.com/live-news/), live sports, and video ad technology. I work in Elixir/OTP and worked in Golang, Ruby/Rails, and Node. I prefer to work on areas with high concurrency and millions of customers.
+#### My passions include television, film, comedy, writing, literature, psychology, politics, journalism, singing, boxing, tennis, and teaching. I've had 4 careers: chemical engineering, teaching, spinal surgery, and software.
+#### My [LinkedIn](https://www.linkedin.com/in/raymond-gan-i-do-not-seek-a-job-0ba8011/) | [Twitter](https://twitter.com/rgan0)
+
+![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayning0&theme=great-gatsby&show_icons=true&count_private=true)
 
 <!--
 **rayning0/rayning0** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
