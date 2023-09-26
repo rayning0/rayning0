@@ -2,7 +2,7 @@ I work in television on [streaming video](https://howvideo.works) and [distribut
 
 My passions include television, film, comedy, writing, literature, psychology, politics, journalism, singing, boxing, tennis, and teaching. I've had 4 careers: chemical engineering, teaching, spinal surgery, and software.
 
-My [LinkedIn](https://www.linkedin.com/in/raymond-gan-i-do-not-seek-a-job-0ba8011/) | [Twitter](https://twitter.com/rgan0)
+My [LinkedIn](https://www.linkedin.com/in/raymond-gan-0ba8011/) | [Twitter](https://twitter.com/rgan0)
 
 ![Raymond's GitHub stats](https://github-readme-stats.vercel.app/api?username=rayning0&theme=great-gatsby&show_icons=true&count_private=true)
 
